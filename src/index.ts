@@ -3,7 +3,7 @@ import "./style/index.less"
 // import Snake from "./modules/snake"
 // import ScorePanel from "./modules/ScorePanel"
 import GameControl from "./modules/gameControl"
-new GameControl()
+const gameControl =  new GameControl()
 
 
 
